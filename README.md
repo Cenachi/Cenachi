@@ -8,6 +8,10 @@
   <a href=""><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
 </div>
 
+<div>
+   <a href=""><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
+</div>
+
 </br><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cenachi&show_icons=true&theme=dark&locale=en&layout=compact" alt="Cenachi"/></p>
 
 <!--
