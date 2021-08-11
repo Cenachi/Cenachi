@@ -1,4 +1,4 @@
-### ![image](https://user-images.githubusercontent.com/88784464/129116887-44d27bd7-7b45-4c63-a1f1-9d86173aef75.png)
+### https://cdn.discordapp.com/emojis/795467294604132363.gif?v=1
 
 
 <h3>Languages</h3>
