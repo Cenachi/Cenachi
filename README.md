@@ -25,9 +25,7 @@
   <a href="https://www.instagram.com/carlinhos_cenachi"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" width="45" height="45" align="left" hspace="1"></a>
    <a href="https://twitter.com/CarlosCenachi"><img src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" width="45" height="45" align="left" hspace="1"></a>
    <a href="https://twitter.com/CarlosCenachi"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="45" height="45" align="left" hspace="1"></a>
-  
 </div>
-
 
 </br><a href="https://github.com/Cenachi"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cenachi&show_icons=true&theme=dark&locale=en&layout=compact" alt="Cenachi"/></a>
 
