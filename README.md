@@ -3,7 +3,7 @@
 <p>➤📚Graduando em Sistemas de Informação no IFMG</p>
 
 <hr>
-<hr size = 1px>
+
 <h3>Languages</h3>
 <div>
   <a href="https://github.com/Cenachi"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
