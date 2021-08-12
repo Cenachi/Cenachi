@@ -2,7 +2,7 @@
 
 <p>➤📚Graduando em Sistemas de Informação no IFMG</p>
 
-![image](https://user-images.githubusercontent.com/88784464/129123602-ec4e9cfe-4ac2-4c2e-9100-08e5f7e7c77f.png)
+![image](https://user-images.githubusercontent.com/88784464/129123602-ec4e9cfe-4ac2-4c2e-9100-08e5f7e7c77f.gif)
 
 
 <h3>Languages</h3>
