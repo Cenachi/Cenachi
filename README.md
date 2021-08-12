@@ -1,4 +1,6 @@
-### https://cdn.discordapp.com/emojis/795467294604132363.gif?v=1
+### Olá pessoal, meu nome é Carlos Henrique ![image](https://cdn.discordapp.com/emojis/823720535221075979.gif?v=1)
+
+
 
 
 <h3>Languages</h3>
