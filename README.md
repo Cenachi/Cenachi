@@ -22,7 +22,7 @@
 
 <div>
   <h3>Connect with me:</h3>  
-  <a href="https://github.com/Cenachi"><img src="http://doutorespalhacos.com.br/wp-content/uploads/2020/03/logo-instagram-png-fundo-transparente.png"></a>
+  <a href="https://github.com/Cenachi"><img src="http://doutorespalhacos.com.br/wp-content/uploads/2020/03/logo-instagram-png-fundo-transparente.png" width="15" height="15" ></a>
 </div>
 
 </br><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cenachi&show_icons=true&theme=dark&locale=en&layout=compact" alt="Cenachi"/></p>
