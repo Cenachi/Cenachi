@@ -2,6 +2,7 @@
 
 <p>➤📚Graduando em Sistemas de Informação no IFMG</p>
 
+<img src="https://thumbs.gfycat.com/AncientUnselfishGoldenmantledgroundsquirrel-size_restricted.gif" height="1"/>
 
 <h3>Languages</h3>
 <div>
