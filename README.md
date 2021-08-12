@@ -1,5 +1,8 @@
 <h2>Olá pessoal, meu nome é Carlos Henrique <img src="https://cdn.discordapp.com/emojis/823720535221075979.gif?v=1" width="50" height="50" /> </h2> 
 
+<p>➤📚Graduando em Sistemas de Informação no IFMG</p>
+
+
 <h3>Languages</h3>
 <div>
   <a href="https://github.com/Cenachi"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
