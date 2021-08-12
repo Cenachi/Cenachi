@@ -27,6 +27,7 @@
    <a href="https://twitter.com/CarlosCenachi"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="45" height="45" align="left" hspace="1"></a>
 </div>
 
+<hr>
 </br><a href="https://github.com/Cenachi"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cenachi&show_icons=true&theme=dark&locale=en&layout=compact" alt="Cenachi"/></a>
 
 <!--
