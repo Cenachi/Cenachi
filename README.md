@@ -1,6 +1,6 @@
-### Olá pessoal, meu nome é Carlos Henrique ![image](https://cdn.discordapp.com/emojis/823720535221075979.gif?v=1)
+### Olá pessoal, meu nome é Carlos Henrique <img src="https://cdn.discordapp.com/emojis/823720535221075979.gif?v=1" width="50" height="50" />
 
-
+width="320" height="205"
 
 
 <h3>Languages</h3>
