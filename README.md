@@ -22,8 +22,13 @@
 
 <div>
   <h3>Connect with me:</h3>  
-  <a href="https://www.instagram.com/carlinhos_cenachi/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" width="45" height="45" ></a>
+  <a href="https://www.instagram.com/carlinhos_cenachi"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" width="45" height="45" ></a>
+   <a href=""><img src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" width="45" height="45" ></a>
+  
 </div>
+
+
+
 
 </br><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cenachi&show_icons=true&theme=dark&locale=en&layout=compact" alt="Cenachi"/></p>
 
