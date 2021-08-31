@@ -1,6 +1,7 @@
 <h2>Hi there! I'm Carlos Henrique <a href="https://github.com/Cenachi"><img src="https://cdn.discordapp.com/emojis/823720535221075979.gif?v=1" width="30" height="30" /></a></h2> 
 
-<p>📚Graduando em Sistemas de Informação no IFMG</p>
+<p>📚Graduando em Sistemas de Informação pelo IFMG Campus Ouro Branco;</p>
+<p>🎓Técnico em Informática pelo IFMG Campus Avançado Ponte Nova;</p>
 
 <hr>
 
