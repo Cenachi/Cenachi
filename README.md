@@ -6,11 +6,50 @@
 <hr>
 
 <div>
-  <h3>Languages</h3>
-  <a href="https://github.com/Cenachi"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
-  <a href="https://github.com/Cenachi"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
-  <a href="https://github.com/Cenachi"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" ></a>
-  <a href="https://github.com/Cenachi"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
+  <h3>Programming Languages</h3>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" align="left" hspace="1"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
+</div>
+
+<div>
+  <h3>Frontend Development</h3>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+                alt="html5" width="45" height="55" /></a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+                alt="css3" width="45" height="55" /> </a>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
+                alt="vuejs" width="40" height="40" /> </a>
+   </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="50"/>
+</div>
+
+<div>
+  <h3>Database & Devops</h3>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+                alt="postgresql" width="40" height="40" align="left" hspace="1"/> </a>  
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+                alt="mysql" width="40" height="40" align="left" hspace="1"/> </a>  
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+                alt="docker" width="40" height="40" align="left" hspace="1"/> </a>
+</div>
+
+<br>
+<br>
+
+
+<div>
+  <h3>Other</h3>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+                alt="linux" width="40" height="40" align="left" hspace="1" /></a>
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
+                alt="photoshop" width="40" height="40" /> </a>
 </div>
 
 <div>  
