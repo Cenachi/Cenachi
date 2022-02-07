@@ -7,8 +7,9 @@
 
 <div>
   <h3>Programming Languages</h3>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" align="left" hspace="1"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" hspace="12"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 </div>
 
 <div>
@@ -19,40 +20,43 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
                 alt="css3" width="45" height="55" /> </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="41" height="41" /> </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
                 alt="vuejs" width="40" height="40" /> </a>
-   </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="50"/> </a>   
-   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /> </a>
-  
-  
+   </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="42" height="46"/> </a>
+   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="39" height="39"/> </a>
+   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="41" height="41"/> </a>  
+</div>
+
+<div>
+  <h3>Backend Development & BaaS</h3>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="36" height="36" hspace="12"/> </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 </div>
 
 <div>
   <h3>Database & Devops</h3>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-                alt="postgresql" width="40" height="40" align="left" hspace="1"/> </a>  
+                alt="postgresql" width="40" height="40"/> </a>  
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-                alt="mysql" width="40" height="40" align="left" hspace="1"/> </a>  
+                alt="mysql" width="46" height="46" hspace="12"/> </a>  
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-                alt="docker" width="40" height="40" align="left" hspace="1"/> </a>
+                alt="docker" width="42" height="42"/> </a>
 </div>
-
-<br>
-<br>
-
 
 <div>
   <h3>Other</h3>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-                alt="linux" width="40" height="40" align="left" hspace="1" /></a>   
+                alt="linux" width="40" height="40"/></a>   
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="39" height="39"/ hspace="12"> </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </div>
 
-<br>
 <br>
 
 <div>  
